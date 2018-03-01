@@ -1,0 +1,30 @@
+﻿  sample.cpp
+sample.cpp(31): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+sample.cpp(635): warning C4101: 'vx' : unreferenced local variable
+sample.cpp(637): warning C4101: 'scale2' : unreferenced local variable
+sample.cpp(635): warning C4101: 'v' : unreferenced local variable
+sample.cpp(635): warning C4101: 'vy' : unreferenced local variable
+sample.cpp(636): warning C4101: 'xl' : unreferenced local variable
+sample.cpp(636): warning C4101: 'yb' : unreferenced local variable
+sample.cpp(759): warning C4101: 'scale' : unreferenced local variable
+sample.cpp(758): warning C4101: 'rot' : unreferenced local variable
+sample.cpp(759): warning C4101: 'trans' : unreferenced local variable
+sample.cpp(761): warning C4101: 'str' : unreferenced local variable
+sample.cpp(1283): warning C4005: 'X' : macro redefinition
+          sample.cpp(341) : see previous definition of 'X'
+sample.cpp(1284): warning C4005: 'Y' : macro redefinition
+          sample.cpp(342) : see previous definition of 'Y'
+sample.cpp(1285): warning C4005: 'Z' : macro redefinition
+          sample.cpp(343) : see previous definition of 'Z'
+sample.cpp(1682): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+sample.cpp(1683): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+sample.cpp(1716): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+sample.cpp(1733): warning C4101: 'mat_diffuse' : unreferenced local variable
+sample.cpp(1876): warning C4101: 'jitter' : unreferenced local variable
+sample.cpp(1893): warning C4101: 'w' : unreferenced local variable
+sample.cpp(1893): warning C4101: 'h' : unreferenced local variable
+sample.cpp(2093): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+  Generating code
+  Finished generating code
+LIBCD.lib(strdup.obj) : warning LNK4099: PDB 'libcd.pdb' was not found with 'LIBCD.lib(strdup.obj)' or at 'C:\Users\Edward\Documents\Visualization\Final Assignment\sample_skeleton_proj_VS2013\Release\libcd.pdb'; linking object as if no debug info
+  Skeleton.vcxproj -> C:\Users\Edward\Documents\Visualization\Final Assignment\sample_skeleton_proj_VS2013\Release\Skeleton.exe
